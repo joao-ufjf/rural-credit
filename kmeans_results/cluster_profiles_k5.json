@@ -2,13 +2,13 @@
     {
         "cluster": 1,
         "stats": {
-            "size": 734,
-            "percentage": 82.19484882418813,
+            "size": 718,
+            "percentage": 80.40313549832027,
             "center": {
-                "cost": -0.2548338836633176,
-                "productivity": -0.2864066790009406,
-                "value": -0.2687465856885115,
-                "area": -0.3198527436474025
+                "cost": -0.2618713599997267,
+                "productivity": -0.2961431303105014,
+                "value": -0.2706896562436984,
+                "area": -0.3324895992936034
             },
             "min": {
                 "cost": 312.0984325588468,
@@ -17,54 +17,86 @@
                 "area": 0.0068333020633151
             },
             "max": {
-                "cost": 268180.0597982212,
-                "productivity": 400824.78008225537,
+                "cost": 239212.8203366334,
+                "productivity": 373821.3199249572,
                 "value": 200000.0,
-                "area": 584.2952485755852
+                "area": 531.2633608963197
             },
             "std": {
-                "cost": 61872.7802511998,
-                "productivity": 101091.37334583348,
-                "value": 54222.47038659955,
-                "area": 151.58866152599424
+                "cost": 56273.20252850452,
+                "productivity": 93048.8841388979,
+                "value": 51530.44994953026,
+                "area": 139.373203398804
             }
         },
-        "description": "This cluster contains 734 items (82.2% of total) and is characterized by:\n- Cost: $-0.25 (range: $312.10 to $268,180.06)\n- Productivity: -0.29 (range: 1197.32 to 400824.78)\n- Value: -0.27 (range: 2250.00 to 200000.00)\n- Area: -0 sq ft (range: 0 sq ft to 584 sq ft)\n"
+        "description": "This cluster contains 718 items (80.4% of total) and is characterized by:\n- Cost: $-0.26 (range: $312.10 to $239,212.82)\n- Productivity: -0.30 (range: 1197.32 to 373821.32)\n- Value: -0.27 (range: 2250.00 to 200000.00)\n- Area: -0 sq ft (range: 0 sq ft to 531 sq ft)\n"
     },
     {
         "cluster": 2,
         "stats": {
-            "size": 39,
-            "percentage": 4.367301231802911,
+            "size": 8,
+            "percentage": 0.8958566629339306,
             "center": {
-                "cost": 1.7043352704018224,
-                "productivity": 2.101082783913386,
-                "value": 2.2851453919272755,
-                "area": 2.2100528604194056
+                "cost": 4.883745627151559,
+                "productivity": 4.24252022402506,
+                "value": 5.227948539696391,
+                "area": 5.519775688536889
             },
             "min": {
-                "cost": 817915.3170431987,
-                "productivity": 1110979.8347195615,
-                "value": 2800000.0,
-                "area": 1574.2591279353626
-            },
-            "max": {
                 "cost": 2410957.1208515665,
                 "productivity": 2657668.4650086835,
                 "value": 5000000.0,
                 "area": 3498.7005047246103
             },
+            "max": {
+                "cost": 4413201.907666415,
+                "productivity": 3904554.605569366,
+                "value": 10000000.0,
+                "area": 6058.285342545206
+            },
             "std": {
-                "cost": 422065.515890192,
-                "productivity": 443959.6487472983,
-                "value": 911511.8110429471,
-                "area": 476.4306189738702
+                "cost": 654627.3400298618,
+                "productivity": 379727.38040862104,
+                "value": 1920146.9437817216,
+                "area": 874.1006908832243
             }
         },
-        "description": "This cluster contains 39 items (4.4% of total) and is characterized by:\n- Cost: $1.70 (range: $817,915.32 to $2,410,957.12)\n- Productivity: 2.10 (range: 1110979.83 to 2657668.47)\n- Value: 2.29 (range: 2800000.00 to 5000000.00)\n- Area: 2 sq ft (range: 1,574 sq ft to 3,499 sq ft)\n"
+        "description": "This cluster contains 8 items (0.9% of total) and is characterized by:\n- Cost: $4.88 (range: $2,410,957.12 to $4,413,201.91)\n- Productivity: 4.24 (range: 2657668.47 to 3904554.61)\n- Value: 5.23 (range: 5000000.00 to 10000000.00)\n- Area: 6 sq ft (range: 3,499 sq ft to 6,058 sq ft)\n"
     },
     {
         "cluster": 3,
+        "stats": {
+            "size": 41,
+            "percentage": 4.591265397536394,
+            "center": {
+                "cost": 1.5804205528906423,
+                "productivity": 1.977293897466578,
+                "value": 2.173691978947377,
+                "area": 2.0970797630345666
+            },
+            "min": {
+                "cost": 756813.6775654837,
+                "productivity": 1075192.77598203,
+                "value": 2400000.0,
+                "area": 1515.9315484978476
+            },
+            "max": {
+                "cost": 2349134.235673392,
+                "productivity": 2589620.4990230915,
+                "value": 5000000.0,
+                "area": 3258.58220295592
+            },
+            "std": {
+                "cost": 387400.46758646227,
+                "productivity": 438499.5383134453,
+                "value": 953575.5262744919,
+                "area": 434.1573095447667
+            }
+        },
+        "description": "This cluster contains 41 items (4.6% of total) and is characterized by:\n- Cost: $1.58 (range: $756,813.68 to $2,349,134.24)\n- Productivity: 1.98 (range: 1075192.78 to 2589620.50)\n- Value: 2.17 (range: 2400000.00 to 5000000.00)\n- Area: 2 sq ft (range: 1,516 sq ft to 3,259 sq ft)\n"
+    },
+    {
+        "cluster": 4,
         "stats": {
             "size": 4,
             "percentage": 0.4479283314669653,
@@ -96,67 +128,35 @@
         "description": "This cluster contains 4 items (0.4% of total) and is characterized by:\n- Cost: $11.00 (range: $5,773,103.97 to $8,623,396.16)\n- Productivity: 10.27 (range: 4950661.00 to 9416398.76)\n- Value: 9.60 (range: 15000000.00 to 15000000.00)\n- Area: 8 sq ft (range: 6,069 sq ft to 7,912 sq ft)\n"
     },
     {
-        "cluster": 4,
-        "stats": {
-            "size": 109,
-            "percentage": 12.206047032474803,
-            "center": {
-                "cost": 0.3771800771835192,
-                "productivity": 0.5205871899424768,
-                "value": 0.2834777723539967,
-                "area": 0.6859976039766473
-            },
-            "min": {
-                "cost": 274160.4683681388,
-                "productivity": 408670.7595654587,
-                "value": 203143.7,
-                "area": 585.3863640086853
-            },
-            "max": {
-                "cost": 789815.6782694753,
-                "productivity": 1084447.6180507762,
-                "value": 2500000.0,
-                "area": 1572.4287613057352
-            },
-            "std": {
-                "cost": 140764.40498096537,
-                "productivity": 212176.72647792922,
-                "value": 699099.030053279,
-                "area": 279.401508577096
-            }
-        },
-        "description": "This cluster contains 109 items (12.2% of total) and is characterized by:\n- Cost: $0.38 (range: $274,160.47 to $789,815.68)\n- Productivity: 0.52 (range: 408670.76 to 1084447.62)\n- Value: 0.28 (range: 203143.70 to 2500000.00)\n- Area: 1 sq ft (range: 585 sq ft to 1,572 sq ft)\n"
-    },
-    {
         "cluster": 5,
         "stats": {
-            "size": 7,
-            "percentage": 0.7838745800671892,
+            "size": 122,
+            "percentage": 13.66181410974244,
             "center": {
-                "cost": 5.0672431139242144,
-                "productivity": 4.353496644300364,
-                "value": 5.547991162472471,
-                "area": 5.7447581198539
+                "cost": 0.3140858362988007,
+                "productivity": 0.4449698798901393,
+                "value": 0.1849305230086889,
+                "area": 0.5948088567980487
             },
             "min": {
-                "cost": 2600110.053747589,
-                "productivity": 2913337.2792726588,
-                "value": 7000000.0,
-                "area": 4047.770838728
+                "cost": 246772.3606696584,
+                "productivity": 374995.8582671239,
+                "value": 200000.0,
+                "area": 531.654982568871
             },
             "max": {
-                "cost": 4413201.907666415,
-                "productivity": 3904554.605569366,
-                "value": 10000000.0,
-                "area": 6058.285342545206
+                "cost": 725731.9659521048,
+                "productivity": 1070231.6786308647,
+                "value": 2395330.0,
+                "area": 1507.5331957840674
             },
             "std": {
-                "cost": 620190.3421129569,
-                "productivity": 339271.6812877059,
-                "value": 1454549.512981351,
-                "area": 772.9378892457722
+                "cost": 139439.2528956718,
+                "productivity": 207711.1399997047,
+                "value": 653669.7191594966,
+                "area": 272.68021169246475
             }
         },
-        "description": "This cluster contains 7 items (0.8% of total) and is characterized by:\n- Cost: $5.07 (range: $2,600,110.05 to $4,413,201.91)\n- Productivity: 4.35 (range: 2913337.28 to 3904554.61)\n- Value: 5.55 (range: 7000000.00 to 10000000.00)\n- Area: 6 sq ft (range: 4,048 sq ft to 6,058 sq ft)\n"
+        "description": "This cluster contains 122 items (13.7% of total) and is characterized by:\n- Cost: $0.31 (range: $246,772.36 to $725,731.97)\n- Productivity: 0.44 (range: 374995.86 to 1070231.68)\n- Value: 0.18 (range: 200000.00 to 2395330.00)\n- Area: 1 sq ft (range: 532 sq ft to 1,508 sq ft)\n"
     }
 ]
